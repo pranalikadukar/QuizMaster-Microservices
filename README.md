@@ -50,6 +50,8 @@ This is a complete backend for an e-commerce application built using **Spring Bo
 - ✅ MySQL Database Integration
 
 - ✅ Service Monitoring with Spring Boot Actuator
+  
+- 🔄 Swagger/OpenAPI Integration (Coming Soon)
 
 ---
 
